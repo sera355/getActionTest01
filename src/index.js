@@ -1,5 +1,5 @@
 // computes a factorial of a given positive integer
-// version: 1 -> 2
+// version: 1 -> 2 -> 3
 function factorial(n) { //n을 받아서 factorial을 계산하는 함수 
 
     if( n < 0 ) {
